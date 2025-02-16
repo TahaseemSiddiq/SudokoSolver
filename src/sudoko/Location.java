@@ -3,7 +3,7 @@ package sudoko;
 public class Location {
 
     public int row = -1;
-    public int column = -1
+    public int column = -1;
      
     public Location(int row, int column){
         this.row = row;
